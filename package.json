@@ -6,7 +6,7 @@
     "piral"
   ],
   "dependencies": {
-    "piral": "^0.9.9"
+    "piral": "0.14.0"
   },
   "scripts": {
     "start": "piral debug",
@@ -33,7 +33,9 @@
     "@types/react-dom": "latest",
     "@types/react-router": "latest",
     "@types/react-router-dom": "latest",
-    "piral-cli": "^0.9.9",
+    "axios": "^0.24.0",
+    "piral-cli": "0.14.0",
+    "piral-cli-webpack5": "0.14.0",
     "sass": "^1.25.0",
     "typescript": "latest"
   }
